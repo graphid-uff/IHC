@@ -6,6 +6,11 @@ The IHC Calculator is a free and open-source tool designed to estimate the Hydro
 
 This repository provides:
 
+An .yml file with the anaconda environment with all the libraries needed to know 
+
 An automated Pythoninteface workflow using TauDEM algorithms, with graphic 
 
+Instrutions on how to make it run
+
 Documentation and usage guidelines
+
