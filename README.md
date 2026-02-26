@@ -8,9 +8,9 @@ This repository provides:
 
 An .yml file with the anaconda environment with all the libraries needed to know 
 
-An automated Pythoninteface workflow using TauDEM algorithms, with graphic 
+An automated Python based workflow using TauDEM algorithms, with graphic interface for the selection of the input files
 
-Instrutions on how to make it run
+Instructions on how to make it run
 
 Documentation and usage guidelines
 
